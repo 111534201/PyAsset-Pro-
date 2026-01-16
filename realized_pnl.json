@@ -1,0 +1,35 @@
+[
+    {
+        "date": "2025-12-14",
+        "name": "Yuanta/P-shares Taiwan Top 50 ETF",
+        "type": "Stock",
+        "currency": "TWD",
+        "sell_qty": 1.0,
+        "sell_price": 63.0,
+        "buy_cost": 61.8,
+        "pnl": 1.2000000000000028,
+        "roi": 1.9417475728155387
+    },
+    {
+        "date": "2025-12-19",
+        "name": "Bitcoin",
+        "type": "Crypto",
+        "currency": "USD",
+        "sell_qty": 1.0,
+        "sell_price": 7500.0,
+        "buy_cost": 7000.0,
+        "pnl": 500.0,
+        "roi": 7.142857142857142
+    },
+    {
+        "date": "2025-12-26",
+        "name": "Apple Inc.",
+        "type": "Stock",
+        "currency": "USD",
+        "sell_qty": 1.0,
+        "sell_price": 1600.0,
+        "buy_cost": 1500.0,
+        "pnl": 100.0,
+        "roi": 6.666666666666667
+    }
+]

@@ -2,8 +2,8 @@ import yfinance as yf
 import requests
 import pandas as pd
 
-# !!! 請將 "YOUR_API_KEY" 換成你自己的 API KEY !!!
-EXCHANGE_RATE_API_KEY = "115a6bd3ffa3ce393ddb1807"
+
+EXCHANGE_RATE_API_KEY = "@@@"
 BASE_CURRENCY = "TWD"
 
 
